@@ -5,7 +5,7 @@
     "description": "Tortoise code barbar",
     "version": "0.0.4",
     "repository": {
-        "url": "https://github.com/kuku-ruyuk/barbar-tortoise-dark"
+        "url": "https://github.com/kuukuuuruyuk/barbar-tortoise-dark"
     },
     "engines": {
         "vscode": "^1.64.0"
