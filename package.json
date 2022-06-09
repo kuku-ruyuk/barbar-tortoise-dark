@@ -1,0 +1,25 @@
+{
+    "name": "barbar-tortoise-dark",
+    "publisher": "barbar-tortoise-dark",
+    "displayName": "barbar-tortoise-dark",
+    "description": "Tortoise code barbar",
+    "version": "0.0.4",
+    "repository": {
+        "url": "https://github.com/kuku-ruyuk/barbar-tortoise-dark"
+    },
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "barbar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/barbar-color-theme.json"
+            }
+        ]
+    }
+}
